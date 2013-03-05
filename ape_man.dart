@@ -9,6 +9,7 @@ class Ape {
 }
 
 //  Human class learns something from apes and gives it forward..
+//  class human do not get instantiated (used) in this example..
 class Human extends Ape {
   String humanThinking = "What do others think about me..?  ";
  }
@@ -41,3 +42,16 @@ void main() {
 
   print("===   End of program   ===");
 }
+
+/*   Output of program should be this:
+Hei, Apina!!  Terve, Ihminen!  Moikka, ohjelmoija!!  
+Eating juicy banana...  
+Scratching my back..... 
+What do others think about me..?  
+I Wanna More Bananas !!
+ You asking what I am doing?? 
+Solving problems and more problems...
+===   End of program   ===
+
+
+*/

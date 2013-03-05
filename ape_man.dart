@@ -30,10 +30,10 @@ void main() {
 // Class programmer, p. !! uses some ape skills wich it inherited..
   print(p.apeFood);
   print(p.apeJob);
+  if (p.wannaMoreBananas) print('I Wanna More Bananas !!');
 
  // and Programmer class uses also some human properties.. 
   print(p.humanThinking);
-  if (p.wannaMoreBananas) print('I Wanna More Bananas !!');
 
   // this programmer do not have many own skills yet,
   // but we can print out, what he/she is thinking

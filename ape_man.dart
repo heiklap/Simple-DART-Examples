@@ -22,14 +22,15 @@ class Programmer extends Human {
   String progJob = "Solving problems. And producing new and more complicated problems...";
 }
 /*
-  main is where every DART program begins to execute.  TYPE Void is strictyly a note to You and your
-  programmer friends.  It tells that main is not entended to return any value. 
-  If there is num or String insted of void, so it returns a value. 
+  main is where every DART program begins to execute.  TYPE Void is strictly a note to You and your
+  programmer friends.  It tells that main is not intended to return any value. 
+  If there is num or String instead of void, THEN main would return a value. 
 */
 void main() {
   print("Hei, Apina!!  Terve, Ihminen!  Moikka, ohjelmoija!!  ");
 
-// here Programmer class will be instantiated
+// here Programmer class will be instantiated with keyword: new, to p.
+// note, that class type: Programmer is with BIG P. Its instance is with SMALL p.  !!
   var p = new Programmer();
 
 // Class programmer, p. !! uses some ancient ape skills witch it inherited..

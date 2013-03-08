@@ -1,4 +1,5 @@
-//  simple extending classes example..
+//  apeman.dart   5.3.2013.   simple dart example. 
+//  for presenting how dart classes are created, extended and instantiated.
 //  developing this still further...
 
 // This class exists simply for others to extend
@@ -20,7 +21,11 @@ class Human extends Ape {
 class Programmer extends Human {
   String progJob = "Solving problems. And producing new and more complicated problems...";
 }
-
+/*
+  main is where every DART program begins to execute.  TYPE Void is strictyly a note to You and your
+  programmer friends.  It tells that main is not entended to return any value. 
+  If there is num or String insted of void, so it returns a value. 
+*/
 void main() {
   print("Hei, Apina!!  Terve, Ihminen!  Moikka, ohjelmoija!!  ");
 

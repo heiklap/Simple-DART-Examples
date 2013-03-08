@@ -33,17 +33,17 @@ void main() {
   var p = new Programmer();
 
 // Class programmer, p. !! uses some ancient ape skills witch it inherited..
-  print(p.apeFood);
-  print(p.apeJob);
-  if (p.wannaMoreBananas) print('I Wanna More Bananas !!');
+  print(p.apeFood);                                     //  Eating juicy banana... 
+  print(p.apeJob);                                      //  Scratching my back.....
+  if (p.wannaMoreBananas) print('I Wanna More Bananas !!');     //  I Wanna More Bananas !!
 
  // and Programmer class uses also some human properties.. 
-  print(p.humanThinking);
+  print(p.humanThinking);                               //  What do others think about me..? 
 
   // this programmer do not have many own skills yet,
   // but we can print out, what he/she is thinking
   print(' You asking what I am doing?? ');
-  print(p.progJob);
+  print(p.progJob);                      //  "Solving problems. And producing new and more complicated problems..."
 
   print("===   End of program   ===");
 }
@@ -55,7 +55,7 @@ Scratching my back.....
 What do others think about me..?  
 I Wanna More Bananas !!
  You asking what I am doing?? 
-Solving problems and more problems...
+"Solving problems. And producing new and more complicated problems..."
 ===   End of program   ===
 
 

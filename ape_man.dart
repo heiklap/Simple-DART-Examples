@@ -22,7 +22,7 @@ class Human extends Ape {
 // inherited from other classes
 class Programmer extends Human {
   String progJob = "Solving problems. And producing new and more complicated problems...";
-  num weightKg = 102;                 //  and counting  :(
+  num weightKg = 102;                 // 102             ( and counting  :(     LOL!)
 }
 /*
   main is where every DART program begins to execute.  TYPE Void is strictly a note to You and your
@@ -48,7 +48,7 @@ void main() {
   // He thinks only his Job.  Should give him more properties... 
   print(' You asking what I am doing?? ');
   print(p.progJob);                      //  "Solving problems. And producing new and more complicated problems..."
-  print(p.weightKg);                       // ( WTF!!  This must be a BUG!!)
+  print(p.weightKg);                       // ( WTF!!  This must be a BUG!!)  Stomach overflow..
 
   print("===   End of program   ===");
 }
@@ -61,6 +61,7 @@ What do others think about me..?
 I Wanna More Bananas !!
  You asking what I am doing?? 
 "Solving problems. And producing new and more complicated problems..."
+102
 ===   End of program   ===
 
 NEXT:   Maybe some functions and more properties...

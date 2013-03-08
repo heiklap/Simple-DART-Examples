@@ -17,6 +17,11 @@ class Human extends Ape {
   num weightKg = 78;
  }
 
+class HumansWife {        //  This class is here just to celebrate international Womans Day  8.3. 
+  num weightKg = 67;      //  Will use this class in later programs
+  String OuSheIs "Ou!  She Is so...   Eternal Inner Beauty...  "
+}
+
 
 // this class will have an instance AND it uses properties
 // inherited from other classes

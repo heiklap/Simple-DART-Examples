@@ -18,7 +18,7 @@ class Human extends Ape {
 // this class will have an instance AND it uses properties
 // inherited from other classes
 class Programmer extends Human {
-  String progJob = "Solving problems and more problems...";
+  String progJob = "Solving problems. And producing new and more complicated problems...";
 }
 
 void main() {
@@ -27,7 +27,7 @@ void main() {
 // here Programmer class will be instantiated
   var p = new Programmer();
 
-// Class programmer, p. !! uses some ape skills wich it inherited..
+// Class programmer, p. !! uses some ancient ape skills witch it inherited..
   print(p.apeFood);
   print(p.apeJob);
   if (p.wannaMoreBananas) print('I Wanna More Bananas !!');

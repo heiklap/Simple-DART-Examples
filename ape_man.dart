@@ -19,7 +19,7 @@ class Human extends Ape {
 
 class HumansWife {        //  This class is here just to celebrate international Womans Day  8.3. 
   num weightKg = 67;      //  Will use this class in later programs
-  String OuSheIs "Ou!  She Is so...   Eternal Inner Beauty...  "
+  String OuSheIs = "Ou!  She Is so...   Eternal Inner Beauty...  ";
 }
 
 

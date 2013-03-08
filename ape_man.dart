@@ -42,6 +42,7 @@ void main() {
   var p = new Programmer();
 
 // Class programmer, p. !! uses some ancient ape skills witch it inherited..
+// BUT NOTE:  all these  (p.apeFood and p. apeJob..)  are now p. :s properties!!
   print(p.apeFood);                                     //  Eating juicy banana... 
   print(p.apeJob);                                      //  Scratching my back.....
   if (p.wannaMoreBananas) print('I Wanna More Bananas !!');     //  I Wanna More Bananas !!

@@ -38,11 +38,11 @@ void main() {
   print(p.apeJob);                                      //  Scratching my back.....
   if (p.wannaMoreBananas) print('I Wanna More Bananas !!');     //  I Wanna More Bananas !!
 
- // and Programmer class uses also some human properties.. 
+ // Programmer class have also inherited all of human properties.. 
   print(p.humanThinking);                               //  What do others think about me..? 
 
-  // this programmer do not have many own skills yet,
-  // but we can print out, what he/she is thinking
+  // this programmer do not have many his OWN skills yet,
+  // He thinks only his Job.  Should give him more properties... 
   print(' You asking what I am doing?? ');
   print(p.progJob);                      //  "Solving problems. And producing new and more complicated problems..."
 
@@ -59,5 +59,5 @@ I Wanna More Bananas !!
 "Solving problems. And producing new and more complicated problems..."
 ===   End of program   ===
 
-
+NEXT:   Maybe some functions and more properties...
 */

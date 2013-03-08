@@ -7,12 +7,14 @@ class Ape {
   String apeFood = "Eating juicy banana...  ";
   String apeJob  = "Scratching my back..... ";
   bool wannaMoreBananas = true;
+  num weightKg = 28;
 }
 
 //  Human class learns something from apes and gives it forward..
 //  class human do not get instantiated (used) in this example..
 class Human extends Ape {
   String humanThinking = "What do others think about me..?  ";
+  num weightKg = 78;
  }
 
 
@@ -20,6 +22,7 @@ class Human extends Ape {
 // inherited from other classes
 class Programmer extends Human {
   String progJob = "Solving problems. And producing new and more complicated problems...";
+  num weightKg = 102;                 //  and counting  :(
 }
 /*
   main is where every DART program begins to execute.  TYPE Void is strictly a note to You and your
@@ -45,6 +48,7 @@ void main() {
   // He thinks only his Job.  Should give him more properties... 
   print(' You asking what I am doing?? ');
   print(p.progJob);                      //  "Solving problems. And producing new and more complicated problems..."
+  print(p.weightKg);                       // ( WTF!!  This must be a BUG!!)
 
   print("===   End of program   ===");
 }

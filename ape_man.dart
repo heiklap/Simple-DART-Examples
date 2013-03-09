@@ -70,5 +70,8 @@ I Wanna More Bananas !!
 102
 ===   End of program   ===
 
+Load Dart Editor:   http://www.dartlang.org/docs/editor/  And copy this page right there
+and run it.  You can develope program and make new versions of it.
+
 NEXT:   Maybe some functions and more properties...
 */

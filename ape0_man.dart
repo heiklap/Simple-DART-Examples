@@ -1,4 +1,4 @@
-//  apeman.dart   5.3.2013.   simple dart example. 
+//  ape0_man.dart   5.3.2013.   simple dart example. 
 //  for presenting how dart classes are created, extended and instantiated.
 //  developing this still further...
 

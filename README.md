@@ -6,6 +6,8 @@ Adding slowly more files and features.  Co's this is for SLOW learning...
 THE IDEA is to present more properties in every separete ape-level (BUT NOT TOO MUCH!!)
 Ape9...  program should be small, but such properties wich were not presented in previous classes...
 
+This is really in very elementary state. I hope someone with better skills had done these, but.. no
+
 ape0_man    extending classes.. simple
 ape1_man    extending classes & all 3 classes are instantiated
 

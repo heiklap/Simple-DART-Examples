@@ -14,9 +14,10 @@ ape1_man    extending classes & all 3 classes are instantiated
 
 -----  under construction
 ape2_abc + ape2_ape + ape2_hum + ape2_pro       
-            moved classes to separate libraries in different files.     
+            Ape got a map... soon will got another.. little cleaning..    
             methods to classes...
-            TODO: ape should have a map...
+            TODO:  humans should make a little broadcasting...
+            TODO: FINAL and CONST :s.
 
 ----    Planning    -----
 ape3_   functions

@@ -1,4 +1,4 @@
-Simple-DART-Examples
+Simple-DARTLANG-Examples
 ====================
 
 Small, simple & independent DART examples for plain beginners; May contain both english and finnish language
@@ -19,7 +19,7 @@ ape2_abc + ape2_ape + ape2_hum + ape2_pro
             TODO:  humans should make a little broadcasting...
             TODO: FINAL and CONST :s.
 
-----    Planning    -----
+----    Planning.. ow.. why is this so slow    -----
 ape3_   functions
 
 ape4   control Flow & menus ?

@@ -56,7 +56,7 @@ class Wise extends Knowledge {
   void executeOutFuncs() {
     num v = outerMan();
     num x = outerData();
-    num y = outerMail();
+    num y = outerNet();
     num z = outerMail();
   }
 

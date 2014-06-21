@@ -19,14 +19,19 @@ void main() {
 //  ***********   three ways for function header   *************
 //  inside this function are parameters;   one, two, three, four...
 // Nice:   you can omit types in function parameters
+
 //  # 1:
 // void runFourFunctions(one, two, three, four) {     //  WORKS !!
 //  so no need for types in parameters
+
 //  # 2:
 // But if I make parameters dynamic, with var:
 //  void runFourFunctions(var one, var two, var three, var four) {
+
 //  # 3:   ( void type is not allowed as function parameter )
 //  or you can use types, to make usage of function clearer
+
+//  parameters:   num, String, bool.. make very clear, how to use this function
 void runFourFunctions(var one, num two, String three, bool four) {
   print(' running four functions.. inside this function..');
   print(''); // note: this is not runned first

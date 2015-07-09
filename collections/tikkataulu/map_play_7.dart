@@ -154,6 +154,7 @@ void doThrowRound(int howMany) {              //  reserving parameter for future
   for (int _i = 1; _i < playersCount+1; _i++) {
 
     nowThrowing = _i;
+    //  only un-teamed players are throwing here
     if (!teamedPlayersL.contains(nowThrowing)) {
 
     nowResult = keysFreqL[random.nextInt(keysFreqL.length)];    //  one of   106
